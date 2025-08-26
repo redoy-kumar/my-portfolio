@@ -36,6 +36,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 // Education Section Logo's
 import gstuLogo from './assets/education_logo/gstu2.jpeg';
 import azharLogo from './assets/education_logo/kazi-azhar-ali.jpeg';
+import mghsLogo from './assets/education_logo/mghs.jpeg';
 
 // Project Section Logo's
 import careerLogo from './assets/work_logo/career-guide.PNG';
@@ -105,7 +106,7 @@ export const SkillsInfo = [
       id: 0,
       img: gstuLogo,
       school: "Gopalganj Science and Technology University, Gopalganj-8100",
-      date: "December 2019 - June 2025",
+      date: "December 2019 - December 2023",
       grade: "3.25 CGPA",
       desc: "I completed my Bachelor's degree in Computer Science (B.Sc.) from GSTU University, Gopalganj. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at GSTU University allowed me to work on projects that applied theoretical concepts to real-world problems.",
       degree: "Bachelor of Science - BSC (Computer Science)",
@@ -121,7 +122,7 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      img: 'none',
+      img: mghsLogo,
       school: "Mulghar Govt. High School, Fakirhat",
       date: "January 2010 - December 2016",
       grade: "A+ Grade in SSC (Secondary School Certificate)",
