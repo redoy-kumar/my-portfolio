@@ -12,7 +12,7 @@ const Project = () => {
     }
 
     return (
-        <section id='projects' className='py-24 pb-24 px-[12vw] md:px-[7vw] lg:px-[12vw] font-sans relative'>
+        <section id='projects' className='py-24 pb-24 px-[12vw] md:px-[7vw] lg:px-[12vw] font-sans relative clip-path-custom-2'>
             {/* Section Title */}
             <div className='text-center mb-16 '>
                 <h2 className='text-4xl font-bold text-white'>PROJECTS</h2>

@@ -117,7 +117,7 @@ export const SkillsInfo = [
       date: "June 2017 - June 2018",
       grade: "A Grade in HSC (Higher Secondary Certificate)",
       desc: "I completed my class 11 and 12 education from Kazi Azhar Ali College, Fakirhat, under the Jessore board, where I studied Physics, Chemistry, Biology, ICT and Mathematics. My education at this institution instilled in me a passion for learning and a curiosity for technology, which ultimately led me to pursue a career in computer science.",
-      degree: "none",
+      degree: "Higher Secondary Certificate (HSC)",
     },
     {
       id: 2,
@@ -126,7 +126,7 @@ export const SkillsInfo = [
       date: "January 2010 - December 2016",
       grade: "A+ Grade in SSC (Secondary School Certificate)",
       desc: "I completed my Secondary School Certificate (SSC) from Mulghar Govt. High School, Fakirhat, where I developed a strong foundation in various subjects. My education at this institution instilled in me a passion for learning and a curiosity for technology, which ultimately led me to pursue a career in computer science.",
-      degree: "none",
+      degree: "Secondary School Certificate (SSC)",
     },
   ];
   
